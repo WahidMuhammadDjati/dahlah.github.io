@@ -1,0 +1,220 @@
+*,html {
+    margin: 0;
+    padding: 0;
+} 
+
+.body {
+    background-image: url('Gedung Putih Jura Tempest.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+.hotel {
+    color: blue;
+    font-size: 80px;
+    position: absolute;
+    left: 55vh;
+    top: 65vh;
+}
+.overlay{
+        position: absolute;
+        top: 85vh; /* Sesuaikan posisi vertikal lapisan */
+        left: 0vh; /* Sesuaikan posisi horizontal lapisan */
+        width: 198vh; /* Sesuaikan lebar lapisan */
+        height: 200vh; /* Sesuaikan tinggi lapisan */
+        background-color:white /* Warna latar belakang dengan tingkat transparansi */
+}
+.ov1{
+    background-color:#2931a1;
+    position: absolute;
+    top: 90vh; /* Sesuaikan posisi vertikal lapisan */  
+    left: 5vh; /* Sesuaikan posisi horizontal lapisan */
+    width: 60vh; /* Sesuaikan lebar lapisan */
+    height: 80vh; /* Sesuaikan tinggi lapisan */
+}
+.h1{
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid;
+    padding-bottom: 40px;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.img1{
+    height: auto;
+    width: 100%;
+}
+.p1{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.b1{
+    background-color: rgb(187, 38, 38);
+    color: white;
+    padding: 20px;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.ov2{
+    background-color:#2931a1;
+    position: absolute;
+    top: 90vh; /* Sesuaikan posisi vertikal lapisan */
+    left: 70vh; /* Sesuaikan posisi horizontal lapisan */
+    width: 60vh; /* Sesuaikan lebar lapisan */
+    height: 80vh; /* Sesuaikan tinggi lapisan */
+}
+.h2{
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid;
+    padding-bottom: 40px;
+    width: 300px;
+    margin-left: 50px;
+}
+.img2{
+    height: 42%;
+    width: 100%; 
+}
+.p2{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.b2{
+    background-color: rgb(187, 38, 38);
+    color: white;
+    padding: 20px;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.ov3{
+    background-color:#2931a1;
+    position: absolute;
+    top: 90vh; /* Sesuaikan posisi vertikal lapisan */
+    left: 135vh; /* Sesuaikan posisi horizontal lapisan */
+    width: 60vh; /* Sesuaikan lebar lapisan */
+    height: 80vh; /* Sesuaikan tinggi lapisan */
+}
+.h3{
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid;
+    padding-bottom: 40px;
+    width: 300px;
+    margin-left: 50px;
+}
+.img3{
+    height: 43%;
+    width: 100%;
+}
+
+.p3{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.b3{
+    background-color: rgb(187, 38, 38);
+    color: white;
+    padding: 20px;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.ov4{
+    background-color:#2931a1;
+    position: absolute;
+    top: 175vh; /* Sesuaikan posisi vertikal lapisan */
+    left: 5vh; /* Sesuaikan posisi horizontal lapisan */
+    width: 60vh; /* Sesuaikan lebar lapisan */
+    height: 80vh; /* Sesuaikan tinggi lapisan */
+}
+.h4{
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid;
+    padding-bottom: 40px;
+    width: 300px;
+    margin-left: 50px;
+}
+.img4{
+    height: auto;
+    width: 100%;
+}
+
+.p4{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.b4{
+    background-color: rgb(187, 38, 38);
+    color: white;
+    padding: 20px;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.divnav{
+   background-color:rgba(255, 255, 255, 0.5);
+    width: 100%;
+    height: 100px;
+}
+.ulnav{
+    display: flex;
+    height: 100px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.admin{
+    border: 1px solid black;
+    background-color: gray ;
+    list-style-type: none;
+    margin: 5px;
+    padding: 15px;
+    color: white;
+    margin-right: 80vh;
+}
+.admin:hover{
+    background-color:rgb(190, 190, 190);
+}
+.aadmin {
+    color: white;
+    text-decoration: none;
+}
+.linav{
+    border: 1px solid black;
+    background-color: gray ;
+    list-style-type: none;
+    margin: 5px;
+    padding: 15px;
+}
+.linav:hover {
+    background-color:rgb(190, 190, 190);
+}
+.anav {
+    color: white;
+    text-decoration: none;
+}
+
+.yaudah{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 280px;
+}
+.tdkamar{
+ color: white;
+ margin-top: 100px;  
+}
